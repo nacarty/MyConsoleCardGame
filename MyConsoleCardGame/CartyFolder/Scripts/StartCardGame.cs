@@ -13,7 +13,7 @@ namespace MyConsoleCardGame
 			Console.WriteLine("... Beginning of Program....");
 
 
-			PlayTheGame Game = new PlayTheGame (4, 3);
+			CardGame Game = new CardGame (4, 3);
 
 							
 			Console.WriteLine("Nigel Carty says ... End of Program....");
